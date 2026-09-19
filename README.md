@@ -4,7 +4,7 @@ Devlogs and progress updates from the development of Aern'Val.
 ## Latest Devlogs
 
 ### August 15, 2026
-- [Settings Root - Added HBAO+ checkbox](Devlogs/2026/New%20Soundtracks%20&%20New%20Plans.md)
+- [New Soundtracks & Plans](Devlogs/2026/New%20Soundtracks%20&%%20Plans.md)
   
 ### September 15, 2026
 - [Updated Project to UE5.8.2](Devlogs/2026/Updated%20Project%20to%20UE5.8.2.md)
